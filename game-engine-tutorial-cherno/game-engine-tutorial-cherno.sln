@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tutorial-game-1", "..\tutorial-game-1\tutorial-game-1.vcxproj", "{C9E4A48F-9639-4A3E-90A0-B302EB44A338}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game-engine-tutorial-cherno", "game-engine-tutorial-cherno.vcxproj", "{65DF3879-7179-4190-B5A3-03E377D65AA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65DF3879-7179-4190-B5A3-03E377D65AA9}.Debug|x64.ActiveCfg = Debug|x64
+		{65DF3879-7179-4190-B5A3-03E377D65AA9}.Debug|x64.Build.0 = Debug|x64
+		{65DF3879-7179-4190-B5A3-03E377D65AA9}.Release|x64.ActiveCfg = Release|x64
+		{65DF3879-7179-4190-B5A3-03E377D65AA9}.Release|x64.Build.0 = Release|x64
+		{C9E4A48F-9639-4A3E-90A0-B302EB44A338}.Debug|x64.ActiveCfg = Debug|x64
+		{C9E4A48F-9639-4A3E-90A0-B302EB44A338}.Debug|x64.Build.0 = Debug|x64
+		{C9E4A48F-9639-4A3E-90A0-B302EB44A338}.Release|x64.ActiveCfg = Release|x64
+		{C9E4A48F-9639-4A3E-90A0-B302EB44A338}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2029F5FF-3139-4DAF-B499-B76A642207C9}
+	EndGlobalSection
+EndGlobal
